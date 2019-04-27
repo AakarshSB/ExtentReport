@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="softwaretestingmaterial" duration-ms="12340" started-at="2019-04-27T09:03:18Z" finished-at="2019-04-27T09:03:30Z">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="12340" started-at="2019-04-27T09:03:18Z" finished-at="2019-04-27T09:03:30Z">
+      <class name="ExtentReport.ExtentReportTesting">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:ExtentReport.ExtentReportTesting@3f2a3a5]" name="setExtent" is-config="true" duration-ms="383" started-at="2019-04-27T14:33:18Z" finished-at="2019-04-27T14:33:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ExtentReport.ExtentReportTesting@3f2a3a5]" name="setUp" is-config="true" duration-ms="10970" started-at="2019-04-27T14:33:18Z" finished-at="2019-04-27T14:33:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="noCommerceTitleTest()[pri:0, instance:ExtentReport.ExtentReportTesting@3f2a3a5]" name="noCommerceTitleTest" duration-ms="39" started-at="2019-04-27T14:33:29Z" finished-at="2019-04-27T14:33:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noCommerceTitleTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:ExtentReport.ExtentReportTesting@3f2a3a5]" name="teardown" is-config="true" duration-ms="13" started-at="2019-04-27T14:33:29Z" finished-at="2019-04-27T14:33:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=noCommerceTitleTest status=SUCCESS method=ExtentReportTesting.noCommerceTitleTest()[pri:0, instance:ExtentReport.ExtentReportTesting@3f2a3a5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:ExtentReport.ExtentReportTesting@3f2a3a5]" name="endReport" is-config="true" duration-ms="916" started-at="2019-04-27T14:33:29Z" finished-at="2019-04-27T14:33:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- ExtentReport.ExtentReportTesting -->
+    </test> <!-- testngTest -->
+  </suite> <!-- softwaretestingmaterial -->
+</testng-results>
